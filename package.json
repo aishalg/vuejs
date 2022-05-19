@@ -1,0 +1,16 @@
+{
+  "name": "vue-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://aishalg.github.io/vuejs",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
